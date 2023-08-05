@@ -1,9 +1,11 @@
 # DeepONet
 This is the repository contains the code for my summer Reseach intern of DeepONet model, which is used for learning the non-linear operators by using the the special achitecture based on Universal approximation Theorem.The code is only trained for Double integration as an operator. Model contains two input network one is branch network which takes the discretized form of different functions at different sensor points and the other one is trunk network that takes the input as a location at which we wnat to predict the values for double integral of that function.
 
+You can find the ppt in which I have shown the comparison between DeepOnet model and ANN Model in the Repository.
+
 ## Installation
-1.Clone the repository(If using Google Colab)
-2.Otherwise: Install the requirements using --> 'pip intsall gstools'
+- Clone the repository(If using Google Colab)
+- Otherwise: Install the requirements using --> 'pip intsall gstools'
                                             --> 'pip install tensorflow'
 
 ## Objectives:
