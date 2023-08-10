@@ -17,6 +17,6 @@ This is the repository contains the code for my summer Reseach intern of DeepONe
 1. For a simple sin and cos functions their is issue of integration constant factor in the predicted and analytical solution.
 
 ## Results:
-### You can find the ppt in which I campare the Models performance.(i.e between DeepOnet model and ANN Model):
+### You can find the ppt in which I compare the Models performance.(i.e between DeepOnet model and ANN Model):
 - Comparison between DeepONet model with ANN model in which we combine both the trunk and branch netwrok in a single netwrok as a Input. [Click Here](https://drive.google.com/file/d/1sG05jQM1Je9zFNHDAtbKqMYjV7nW0aPJ/view?usp=sharing).
 - Comparison between ANN model by taking only function values at discretized points and predicted values at the sensor points. [Click Here]( https://drive.google.com/file/d/1q9tvT4S0bfqkCbzXYBPlp2EheEaxwNH7/view?usp=sharing).
